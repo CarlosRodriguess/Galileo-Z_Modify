@@ -1,4 +1,5 @@
-This is a derivative of the Galileo-Z mod from ocgeek, with some aesthetic modifications, see the original repository for details
+This is a derivative of the Galileo-Z mod from ocgeek, with some cosmetic modifications, see ocgeek's repository for sourcing and the original repository for more details
+
 https://github.com/ocgeek/Voron_2.4_Galileo
 
 
