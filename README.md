@@ -10,4 +10,5 @@ The pieces named "X2 + 2-mirror" are asymmetrical pieces, so remember to print t
 ![mirror](https://user-images.githubusercontent.com/28500698/139139574-14a231d2-5257-46a1-8cce-db8651a609cf.jpg)
 
 
-![proto8](https://user-images.githubusercontent.com/28500698/138638295-dd56ca95-18eb-4065-8754-3ce0db2169b7.jpg)
+![rend](https://user-images.githubusercontent.com/28500698/140178065-b5d2dd5a-ea97-44eb-8003-a598795e2f97.jpg)
+
