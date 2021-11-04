@@ -1,7 +1,7 @@
 
-These two files gather four files, "[a] front housing + Longer_Gearbox_Foot" and "Stepper_Spacer + ring_gear_housing"
 
-Use F695 2RS and 625 2RS bearing
+
+
 
 Mod-1;
 ![untitled](https://user-images.githubusercontent.com/28500698/139604126-8a1877e1-3725-4ac0-8f7e-1d15b24953ef.jpg)
