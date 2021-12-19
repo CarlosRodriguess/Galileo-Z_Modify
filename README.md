@@ -9,3 +9,7 @@ The pieces named "X2 + 2-mirror" are asymmetrical pieces, so remember to print t
 ![mirror](https://user-images.githubusercontent.com/28500698/140617873-9ba4fd97-18a4-4fc5-a643-8d27bb3f4b40.jpg)
 
 
+https://github.com/CarlosRodriguess/Galileo-Z_Modify/blob/main/Images/V2.4.2.jpg
+
+
+
